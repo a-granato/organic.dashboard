@@ -1,0 +1,6 @@
+organic_dashboard/
+├── dashboard.py               # Main Streamlit app
+├── cart.py                    # Cart logic
+├── requirements.txt           # Python dependencies
+├── scrapers/
+│   └── nemlig_scraper.py      # Nemlig.com scraper
